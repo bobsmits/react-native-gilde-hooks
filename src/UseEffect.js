@@ -7,7 +7,7 @@ import styles from '../styles';
  * Script:
  * 1. Explain code: load async data when the button is pressed
  * 2. Should trigger and error when unmounted before completion
- * 3. add onMounted var
+ * 3. add unMounted let
  */
 
 export default () => {
